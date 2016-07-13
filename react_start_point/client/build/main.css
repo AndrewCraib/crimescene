@@ -1,0 +1,78 @@
+body {
+  background-color: black;
+}
+
+.roombox {
+  background-image: url('./images/crimescenebackground.jpg');
+  height: 900px;
+  width:1300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  
+  }
+.alignment {
+  
+  /*display: inline-flex;*/
+  /*padding-left: 30px;*/
+  /*margin-left: 50px;*/
+  border: 2px solid black;
+  background: radial-gradient(yellow, orange, black);
+  opacity: 5%;
+  /*width: 40%;*/
+
+}
+
+#main {
+  vertical-align: top;
+
+}
+.clues {
+  margin-left: 725px;
+  padding-top: 65px;
+  margin-top: 40px;
+  border-style: none;
+
+}
+
+.suspectdisplay{
+  background-color: #ffe0cc;
+  display: inline-block;
+  align: center;
+  padding-right: 5px;
+  border: 1px solid black;
+  border-radius: 5%;
+}
+.alignment {
+  
+  /*display: inline-flex;*/
+  /*padding-left: 30px;*/
+  /*margin-left: 50px;*/
+  border: 2px solid black;
+  background: radial-gradient(white, orange, black);
+  
+  /*width: 40%;*/
+
+}
+
+.cluedisplay {
+  display: inline-;
+}
+
+.form {
+  width: 300px;
+}
+
+#left, #right {
+  display: inline-block;
+  width: 40%;
+  vertical-align: top;
+  padding-left: 50px;
+  padding-top: 50px;
+}
+
+h1 {
+  text-align: center;
+
+}
+
